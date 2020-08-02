@@ -1,0 +1,3 @@
+apiUrl: https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/get-summary?region=US&lang=en
+apiHost: apidojo-yahoo-finance-v1.p.rapidapi.com
+apiKey: 72c2ad42demsh0702c1e312fc7b0p1fbd07jsne6b67e7d86d4
